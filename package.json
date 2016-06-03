@@ -41,7 +41,7 @@
     "saga-logger": "0.0.1",
     "semistandard": "8.0.0",
     "sequelize": "3.23.2",
-    "sqs-resource": "0.0.2",
+    "sqs-resource": "0.0.3",
     "validator": "5.2.0"
   },
   "repository": {
