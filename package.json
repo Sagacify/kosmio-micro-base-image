@@ -38,6 +38,8 @@
     "pg-hstore": "2.3.2",
     "redis": "2.5.3",
     "redis-lock": "0.1.0",
+    "request-promise": "3.0.0",
+    "s3-resource": "0.0.2",
     "saga-logger": "0.0.1",
     "semistandard": "8.0.0",
     "sequelize": "3.23.2",
