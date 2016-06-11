@@ -41,11 +41,9 @@
     "request": "2.55.0",
     "request-promise": "3.0.0",
     "robots-txt": "0.1.5",
-    "s3-resource": "0.0.2",
-    "saga-logger": "0.0.1",
+    "saga-logger": "0.0.3",
     "semistandard": "8.0.0",
     "sequelize": "3.23.2",
-    "sqs-resource": "0.0.4",
     "tldjs": "1.5.1",
     "validator": "5.2.0"
   },
