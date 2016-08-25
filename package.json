@@ -8,6 +8,7 @@
     "node": "~6.0.0"
   },
   "dependencies": {
+    "ajv": "4.1.2",
     "aws-sdk": "2.3.15",
     "babel-cli": "6.9.0",
     "babel-core": "6.9.0",
