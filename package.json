@@ -51,6 +51,7 @@
     "semistandard": "8.0.0",
     "sequelize": "3.23.2",
     "tldjs": "1.5.1",
+    "urijs": "1.18.1",
     "validator": "5.2.0"
   },
   "repository": {
