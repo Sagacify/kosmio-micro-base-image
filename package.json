@@ -49,7 +49,7 @@
     "request": "2.75.0",
     "request-promise": "4.1.1",
     "robots-txt": "1.0.0",
-    "saga-logger": "0.0.7",
+    "saga-logger": "0.0.8",
     "semistandard": "9.1.0",
     "sequelize": "3.24.4",
     "tldjs": "1.7.0",
