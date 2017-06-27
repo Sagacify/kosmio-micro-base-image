@@ -20,6 +20,7 @@
     "babel-register": "6.16.3",
     "bluebird": "3.4.6",
     "body-parser": "1.15.2",
+    "camelcase-keys": "4.1.0",
     "chai": "3.5.0",
     "chai-as-promised": "6.0.0",
     "compression": "1.6.2",
@@ -52,7 +53,7 @@
     "saga-logger": "0.0.8",
     "saga-managed-error": "1.0.0",
     "semistandard": "9.1.0",
-    "sequelize": "3.24.4",
+    "sequelize": "4.2.0",
     "tldjs": "1.7.0",
     "urijs": "1.18.2",
     "validator": "6.1.0"
