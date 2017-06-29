@@ -1,0 +1,1 @@
+# kosmio-micro-base-image
