@@ -45,7 +45,7 @@
     "nodemon": "1.11.0",
     "normalize-url": "1.6.1",
     "parse-domain": "1.0.0",
-    "pg": "6.1.0",
+    "pg": "7.2.0",
     "pg-hstore": "2.3.2",
     "redis": "2.6.2",
     "redis-lock": "0.1.0",
@@ -55,7 +55,7 @@
     "saga-logger": "0.0.8",
     "saga-managed-error": "1.0.0",
     "semistandard": "9.1.0",
-    "sequelize": "4.2.0",
+    "sequelize": "4.8.0",
     "tldjs": "1.7.0",
     "urijs": "1.18.2",
     "validator": "6.1.0"
