@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:6
+FROM mhart/alpine-node:8
 
 ENV APP_NAME kosmio-micro-base-image
 ENV NODE_TLS_REJECT_UNAUTHORIZED 0
